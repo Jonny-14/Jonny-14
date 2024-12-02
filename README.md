@@ -3,9 +3,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 q=animated%20software%20engineer%20coding%20gif&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E22AQHPstD5_pOpEQ%2Ffeedshare-shrink_2048_1536%2Ffeedshare-shrink_2048_1536%2F0%2F1692088294343%3Fe%3D2147483647%26v%3Dbeta%26t%3D7Jm2FtLJz7gmNOcsu4DHwBoD3NHDwGLABtxZLW2oNCQ&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fkkoroleva_hi-there-my-name-is-karina-and-i-am-a-frontend-activity-7097132713970651136-mgPT&docid=JtogOyQcgc2iMM&tbnid=lgVSfKiahorraM&vet=12ahUKEwj94PbFvraJAxWjSmwGHTulPSAQM3oECH8QAA..i&w=800&h=600&hcb=2&ved=2ahUKEwj94PbFvraJAxWjSmwGHTulPSAQM3oECH8QAA">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonny-14&label=Profile%20views&color=0e75b6&style=flat" alt="jonny-14" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jonny-14&label=Profile%20views&color=0e75b6&style=flat" alt="jonny-14" /> </p>
 
-<p align="left"> <a href="https://twitter.com/janhavigupta08" target="blank"><img src="https://img.shields.io/twitter/follow/janhavigupta08?logo=twitter&style=for-the-badge" alt="janhavigupta08" /></a> </p>
+<p align="left"> <a href="https://twitter.com/janhavigupta08" target="blank">
+  <img src="[https://img.shields.io/twitter/follow/janhavigupta08?logo=twitter&style=for-the-badge](https://www.google.com/search?sca_esv=e058c774e46ad98b&sxsrf=ADLYWILO_66Frlw0znIR76snq73MNQtAJg:1733128819432&q=coding+animation+images&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J603JUkR9Y5suk8yuy50qOa0K08TrPholP8ECM8ELoq5GeRrUvU44UjKtPgUX-2DV1UQVKIioKq9YP8hjr2s4XGUs7BYUWgrA1zGzjnSuLz0Rv9SOxJBYa2HuYoyuz0gUJ8I_0DE-GtDv_SDOIZzgEUF8lIMmGKJCeFzaPcqEnsoKlWNMQ&sa=X&ved=2ahUKEwiPmof914iKAxXyamwGHUTTCSgQtKgLegQIFxAB&biw=1536&bih=695&dpr=1.25#vhid=FSD31wrhLv_H6M&vssid=mosaic)" alt="janhavigupta08" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
