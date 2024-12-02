@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Janhavi Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20software%20engineer%20coding%20gif&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E22AQHPstD5_pOpEQ%2Ffeedshare-shrink_2048_1536%2Ffeedshare-shrink_2048_1536%2F0%2F1692088294343%3Fe%3D2147483647%26v%3Dbeta%26t%3D7Jm2FtLJz7gmNOcsu4DHwBoD3NHDwGLABtxZLW2oNCQ&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fkkoroleva_hi-there-my-name-is-karina-and-i-am-a-frontend-activity-7097132713970651136-mgPT&docid=JtogOyQcgc2iMM&tbnid=lgVSfKiahorraM&vet=12ahUKEwj94PbFvraJAxWjSmwGHTulPSAQM3oECH8QAA..i&w=800&h=600&hcb=2&ved=2ahUKEwj94PbFvraJAxWjSmwGHTulPSAQM3oECH8QAA">
+q=animated%20software%20engineer%20coding%20gif&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E22AQHPstD5_pOpEQ%2Ffeedshare-shrink_2048_1536%2Ffeedshare-shrink_2048_1536%2F0%2F1692088294343%3Fe%3D2147483647%26v%3Dbeta%26t%3D7Jm2FtLJz7gmNOcsu4DHwBoD3NHDwGLABtxZLW2oNCQ&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fkkoroleva_hi-there-my-name-is-karina-and-i-am-a-frontend-activity-7097132713970651136-mgPT&docid=JtogOyQcgc2iMM&tbnid=lgVSfKiahorraM&vet=12ahUKEwj94PbFvraJAxWjSmwGHTulPSAQM3oECH8QAA..i&w=800&h=600&hcb=2&ved=2ahUKEwj94PbFvraJAxWjSmwGHTulPSAQM3oECH8QAA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonny-14&label=Profile%20views&color=0e75b6&style=flat" alt="jonny-14" /> </p>
 
